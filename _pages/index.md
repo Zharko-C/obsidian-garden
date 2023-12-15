@@ -11,9 +11,8 @@ permalink: /
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+Zhar Consulting is a one man data engineering consulting company, this is the knowledgebase, aka a collection of all the usefull notes created as a byproduct of my work.
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
 
 <strong>Recently updated notes</strong>
 
